@@ -10,13 +10,6 @@ order: 4
 
 I am a professional software developer with a deep passion for the stock market. Both of these interests occupy much of my time. Apart from coding and trading, I enjoy playing cricket and writing Pine scripts. I am known for my laziness, which has driven me to automate most of my work. I am also a DIY enthusiast.
 
-### Interests and Hobbies
-- **Software Development**: Professionally, I develop software solutions, focusing on creating efficient and innovative applications.
-- **Stock Market**: My passion lies in trading and analyzing stock market trends.
-- **Cricket**: I love playing cricket in my free time.
-- **Pine Scripts**: I enjoy coding Pine scripts for better trading strategies.
-- **Automation**: I like to automate tasks to make my life easier.
-- **DIY Projects**: I am a DIYer, always looking for new projects to work on.
 
 <!-- ### Connect
 
