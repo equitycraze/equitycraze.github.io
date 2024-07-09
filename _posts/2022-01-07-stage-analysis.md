@@ -3,6 +3,9 @@ title: Stage Analysis
 date: 2022-01-07 12:00:00 +0800
 categories: [Stage Analysis]
 tags: [indicator]
+pin: true
+math: true
+mermaid: true
 ---
 
 # Stock Stage Cycle Indicator
