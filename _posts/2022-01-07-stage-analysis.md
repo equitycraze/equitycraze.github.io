@@ -1,7 +1,7 @@
 ---
 title: Stage Analysis
 date: 2022-01-07 12:00:00 +0800
-categories: [stageanalysis]
+categories: [Stage Analysis]
 tags: [indicator]
 ---
 
@@ -26,7 +26,18 @@ As shown in the chart, each stock goes through its stage cycle. Below points con
 
 ### Example Chart
 
-![Stock Stage Cycle Example](example_chart.png)
+<!-- TradingView Chart BEGIN -->
+<script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+<script type="text/javascript">
+var tradingview_embed_options = {};
+tradingview_embed_options.width = '720';
+tradingview_embed_options.height = '480';
+tradingview_embed_options.chart = 'tzQaOzmV';
+new TradingView.chart(tradingview_embed_options);
+</script>
+<p><a href="https://in.tradingview.com/script/tzQaOzmV-Stage-Analysis/">Stage Analysis</a> by <a href="https://in.tradingview.com/u/EquityCraze/">EquityCraze</a> on <a href="https://in.tradingview.com/">TradingView.com</a></p>
+<!-- TradingView Chart END -->
+
 
 In the example chart, you can observe the stages and the respective labels that indicate the transitions between them.
 

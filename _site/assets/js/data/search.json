@@ -5,7 +5,7 @@
     "url": "/posts/welcome/",
     "categories": "Homelab",
     "tags": "typography",
-    "date": "2024-01-03 04:33:00 +0100",
+    "date": "2024-01-03 03:33:00 +0000",
     
 
 
@@ -20,9 +20,9 @@
   {
     "title": "Stage Analysis",
     "url": "/posts/stage-analysis/",
-    "categories": "stageanalysis",
+    "categories": "Stage Analysis",
     "tags": "indicator",
-    "date": "2022-01-07 05:00:00 +0100",
+    "date": "2022-01-07 04:00:00 +0000",
     
 
 
@@ -31,7 +31,7 @@
 
     
     "snippet": "Stock Stage Cycle IndicatorThis indicator helps in the identification of the stage cycle of a stock. It should only be analyzed on Weekly and Daily timeframes.Stages  Stage 1: Accumulation phase of...",
-    "content": "Stock Stage Cycle IndicatorThis indicator helps in the identification of the stage cycle of a stock. It should only be analyzed on Weekly and Daily timeframes.Stages  Stage 1: Accumulation phase of a stock  Stage 2: Uptrend phase  Stage 3: Distribution phase  Stage 4: Downtrend phaseUnderstanding the StagesAs shown in the chart, each stock goes through its stage cycle. Below points confirm the uptrend of a stock and provide an idea of when to buy a stock:  Stage 1 Completion: Wait for the first green label up bar to appear. This confirms the completion of Stage 1.  Stage 2 Start: Another green label appears, indicating the start of Stage 2.  Stage 2 Uptrend Confirmation: Finally, a yellow label up appears, confirming the Stage 2 uptrend.Example ChartIn the example chart, you can observe the stages and the respective labels that indicate the transitions between them.UsageThis indicator is particularly useful for traders looking to understand the cyclical nature of stock movements and to identify optimal entry points for buying a stock during its uptrend phases.Feel free to use this indicator in your TradingView scripts and adjust the parameters to suit your analysis needs. Happy trading!"
+    "content": "Stock Stage Cycle IndicatorThis indicator helps in the identification of the stage cycle of a stock. It should only be analyzed on Weekly and Daily timeframes.Stages  Stage 1: Accumulation phase of a stock  Stage 2: Uptrend phase  Stage 3: Distribution phase  Stage 4: Downtrend phaseUnderstanding the StagesAs shown in the chart, each stock goes through its stage cycle. Below points confirm the uptrend of a stock and provide an idea of when to buy a stock:  Stage 1 Completion: Wait for the first green label up bar to appear. This confirms the completion of Stage 1.  Stage 2 Start: Another green label appears, indicating the start of Stage 2.  Stage 2 Uptrend Confirmation: Finally, a yellow label up appears, confirming the Stage 2 uptrend.Example ChartStage Analysis by EquityCraze on TradingView.comIn the example chart, you can observe the stages and the respective labels that indicate the transitions between them.UsageThis indicator is particularly useful for traders looking to understand the cyclical nature of stock movements and to identify optimal entry points for buying a stock during its uptrend phases.Feel free to use this indicator in your TradingView scripts and adjust the parameters to suit your analysis needs. Happy trading!"
   }
   
 ]
