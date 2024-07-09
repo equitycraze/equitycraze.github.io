@@ -11,7 +11,7 @@ order: 4
 I am a professional software developer with a deep passion for the stock market. Both of these interests occupy much of my time. Apart from coding and trading, I enjoy playing cricket and writing Pine scripts. I am known for my laziness, which has driven me to automate most of my work. I am also a DIY enthusiast.
 
 
-<!-- ### Connect
+### Connect
 
 <p align="left">
     <a href="https://in.tradingview.com/u/EquityCraze/">
@@ -20,4 +20,4 @@ I am a professional software developer with a deep passion for the stock market.
     <a href="https://x.com/EquityCraze">
         <img src="https://img.icons8.com/?size=64&id=phOKFKYpe00C&format=png&color=000000" alt="Twitter Profile" style="margin-left: 10px;">
     </a>
-</p> -->
+</p>
