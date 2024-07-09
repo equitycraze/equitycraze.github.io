@@ -1,2 +1,0 @@
-# equitycraze.com
-Coming soon..
