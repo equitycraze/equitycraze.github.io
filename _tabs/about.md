@@ -4,11 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+<!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip } -->
 
-
-## Ganesh
 
 I am a professional software developer with a deep passion for the stock market. Both of these interests occupy much of my time. Apart from coding and trading, I enjoy playing cricket and writing Pine scripts. I am known for my laziness, which has driven me to automate most of my work. I am also a DIY enthusiast.
 
@@ -20,9 +18,9 @@ I am a professional software developer with a deep passion for the stock market.
 - **Automation**: I like to automate tasks to make my life easier.
 - **DIY Projects**: I am a DIYer, always looking for new projects to work on.
 
-### Profiles
+### Connect
 
-<p align="center">
+<p align="left">
     <a href="https://in.tradingview.com/u/EquityCraze/">
         <img src="https://avatars.githubusercontent.com/u/7644688?s=64&v=4" alt="TradingView Profile" style="margin-right: 10px;">
     </a>
