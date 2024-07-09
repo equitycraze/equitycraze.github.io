@@ -18,7 +18,7 @@ I am a professional software developer with a deep passion for the stock market.
 - **Automation**: I like to automate tasks to make my life easier.
 - **DIY Projects**: I am a DIYer, always looking for new projects to work on.
 
-### Connect
+<!-- ### Connect
 
 <p align="left">
     <a href="https://in.tradingview.com/u/EquityCraze/">
@@ -27,4 +27,4 @@ I am a professional software developer with a deep passion for the stock market.
     <a href="https://x.com/EquityCraze">
         <img src="https://img.icons8.com/?size=64&id=phOKFKYpe00C&format=png&color=000000" alt="Twitter Profile" style="margin-left: 10px;">
     </a>
-</p>
+</p> -->
