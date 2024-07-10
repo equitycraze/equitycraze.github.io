@@ -2,7 +2,7 @@
 title: Stage Analysis
 date: 2022-01-07 12:00:00 +0800
 categories: [Stage Analysis]
-tags: [indicator]
+tags: [indicator,]
 pin: true
 math: true
 mermaid: true
@@ -27,27 +27,24 @@ As shown in the chart, each stock goes through its stage cycle. Below points con
 - **Stage 2 Start**: Another green label appears, indicating the start of Stage 2.
 - **Stage 2 Uptrend Confirmation**: Finally, a yellow label up appears, confirming the Stage 2 uptrend.
 
-### Example Chart
+## In Chart
+
+Plots 
+
+* 50, 150 and 200 <b>Simple Moving Averages</b> in Daily and Weekly timeframe
+
+## Tradingview Indicator
 
 <!-- TradingView Chart BEGIN -->
 <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
 <script type="text/javascript">
 var tradingview_embed_options = {};
-tradingview_embed_options.width = '720';
-tradingview_embed_options.height = '480';
+tradingview_embed_options.width = '790';
+tradingview_embed_options.height = '475';
 tradingview_embed_options.chart = 'tzQaOzmV';
 new TradingView.chart(tradingview_embed_options);
 </script>
-<p><a href="https://in.tradingview.com/script/tzQaOzmV-Stage-Analysis/">Stage Analysis</a> by <a href="https://in.tradingview.com/u/EquityCraze/">EquityCraze</a> on <a href="https://in.tradingview.com/">TradingView.com</a></p>
+<p><a href="https://in.tradingview.com/script/tzQaOzmV-Stage-Analysis/">Stage Analysis Indicator</a> by <a href="https://in.tradingview.com/u/EquityCraze/">EquityCraze</a></p>
 <!-- TradingView Chart END -->
 
-
-In the example chart, you can observe the stages and the respective labels that indicate the transitions between them.
-
-### Usage
-
-This indicator is particularly useful for traders looking to understand the cyclical nature of stock movements and to identify optimal entry points for buying a stock during its uptrend phases.
-
----
-
-Feel free to use this indicator in your TradingView scripts and adjust the parameters to suit your analysis needs. Happy trading!
+## [![Stage Analysis](https://img.shields.io/badge/Indicator-link-blue)](https://in.tradingview.com/script/tzQaOzmV-Stage-Analysis/)

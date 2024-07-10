@@ -18,4 +18,8 @@ Here you will find my:
 
 ## Connect
 
-[![TradingView Profile](https://avatars.githubusercontent.com/u/7644688?s=64&v=4)](https://in.tradingview.com/u/EquityCraze/){:target="_blank"} . [![Twitter Profile](https://img.icons8.com/?size=68&id=ClbD5JTFM7FA&format=png&color=000000)](https://x.com/EquityCraze){:target="_blank"}
+[![Twitter Profile](https://img.icons8.com/?size=68&id=ClbD5JTFM7FA&format=png&color=000000)](https://x.com/EquityCraze){:target="_blank"} . [![TradingView Profile](https://avatars.githubusercontent.com/u/7644688?s=64&v=4)](https://in.tradingview.com/u/EquityCraze/){:target="_blank"}
+
+## Work With Me
+
+If you like my work and if you would like to have a custom work made for you then reach out to me in X
