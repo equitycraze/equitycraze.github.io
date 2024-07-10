@@ -1,6 +1,6 @@
 ---
 title: Stage Analysis with Short Term
-date: 2022-01-07 12:00:00 +0800
+date: 2022-04-12 12:00:00 +0800
 categories: [Stage Analysis]
 tags: [indicator]
 pin: true
@@ -8,19 +8,19 @@ math: true
 mermaid: true
 ---
 
-## [Stage Analysis](https://equitycraze.com/posts/stage-analysis/) with Short Term Trend
+Previous post read: [Stage Analysis](https://equitycraze.com/posts/stage-analysis/)
 
-This indicator helps in the identification of the stage cycle of a stock with shorter trend as well
+This indicator helps in the identification of the stage cycle of a stock with short term trend as well
 
-## In Chart
+### In Chart
 
 Plots 
 
-1. 50, 150 and 200 <b>Simple Moving Averages</b> in Daily and Weekly timeframe
+1. 50, 150 and 200 Simple Moving Averages in Daily and Weekly timeframe
 2. 10 and 20 Exponential Moving Averages in Daily timeframe
 
 
-## Tradingview Indicator
+### Tradingview Indicator
 
 <!-- TradingView Chart BEGIN -->
 <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
@@ -33,5 +33,6 @@ new TradingView.chart(tradingview_embed_options);
 </script>
 <!-- TradingView Chart END -->
 
-## [![Stage Analysis - Short Term Indicator](https://img.shields.io/badge/Indicator-link-blue)](https://www.tradingview.com/script/OICl7BAm-Stage-Analysis-Short-Term/)
+
+[![Stage Analysis - Short Term Indicator](https://img.shields.io/badge/Indicator-link-blue)](https://www.tradingview.com/script/OICl7BAm-Stage-Analysis-Short-Term/)
 
